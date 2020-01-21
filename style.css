@@ -1,3 +1,31 @@
-.red {
-  
+.text-center {
+  text-align: center;
+}
+.text-white {
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.bg-blue{
+  background-color:darkblue;
+  padding: 4%;
+  border-style: solid;
+  border-color: black;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.inline {
+ display: inline;
+}
+
+img {
+
+}
+
+.thebar{
+  background-color: darkcyan;
+  margin: 5px;
 }
